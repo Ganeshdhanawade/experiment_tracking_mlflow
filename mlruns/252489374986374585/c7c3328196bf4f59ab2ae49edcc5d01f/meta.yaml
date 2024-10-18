@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/252489374986374585/c7c3328196bf4f59ab2ae49edcc5d01f/artifacts
+end_time: 1729240154764
+entry_point_name: ''
+experiment_id: '252489374986374585'
+lifecycle_stage: active
+run_id: c7c3328196bf4f59ab2ae49edcc5d01f
+run_name: wise-ant-184
+run_uuid: c7c3328196bf4f59ab2ae49edcc5d01f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729240150382
+status: 3
+tags: []
+user_id: ganesh

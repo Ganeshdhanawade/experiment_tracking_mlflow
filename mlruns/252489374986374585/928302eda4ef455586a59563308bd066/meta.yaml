@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/252489374986374585/928302eda4ef455586a59563308bd066/artifacts
+end_time: 1729251176509
+entry_point_name: ''
+experiment_id: '252489374986374585'
+lifecycle_stage: active
+run_id: 928302eda4ef455586a59563308bd066
+run_name: efficient-sloth-680
+run_uuid: 928302eda4ef455586a59563308bd066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729251169897
+status: 3
+tags: []
+user_id: ganesh

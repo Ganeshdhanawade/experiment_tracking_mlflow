@@ -1,0 +1,6 @@
+artifact_location: file:///home/ganesh/mlflow/exp_tracking_mlflow_water_potability/mlruns/581871523870708348
+creation_time: 1729251798222
+experiment_id: '581871523870708348'
+last_update_time: 1729251798222
+lifecycle_stage: active
+name: water_autologing_mlflow

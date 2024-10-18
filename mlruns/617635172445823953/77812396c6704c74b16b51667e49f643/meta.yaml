@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ganesh/mlflow/exp_tracking_mlflow_water_potability/mlruns/617635172445823953/77812396c6704c74b16b51667e49f643/artifacts
+end_time: 1729255226570
+entry_point_name: ''
+experiment_id: '617635172445823953'
+lifecycle_stage: active
+run_id: 77812396c6704c74b16b51667e49f643
+run_name: carefree-hawk-693
+run_uuid: 77812396c6704c74b16b51667e49f643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729255204223
+status: 3
+tags: []
+user_id: ganesh

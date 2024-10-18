@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a104120d94b944c7a12c17932a627777/artifacts
+end_time: 1729230658847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a104120d94b944c7a12c17932a627777
+run_name: rebellious-swan-47
+run_uuid: a104120d94b944c7a12c17932a627777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230654192
+status: 3
+tags: []
+user_id: ganesh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/252489374986374585/416f0a34fb3945b286db673fd6cf425c/artifacts
+end_time: 1729241840816
+entry_point_name: ''
+experiment_id: '252489374986374585'
+lifecycle_stage: active
+run_id: 416f0a34fb3945b286db673fd6cf425c
+run_name: silent-colt-241
+run_uuid: 416f0a34fb3945b286db673fd6cf425c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729241834449
+status: 3
+tags: []
+user_id: ganesh
